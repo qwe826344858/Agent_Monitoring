@@ -1,6 +1,6 @@
 {
   "name": "@gulite/gu_recording",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A package for extended GuLiteOs recording",
   "main": "gu_recording.ts",
   "scripts": {
